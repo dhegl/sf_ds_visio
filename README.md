@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/dhegl/sf_ds/64c052f95af5d042844ed56f765c2cbb566d1680/main/static/medium.svg" alt="Онлайн-школа SkillFactory" width="160px" align="right" />
 </a>
 
-# Итоговое задание по визуализации
+# Итоговое задание по визуальному анализу
 
 
 ## С использованием библиотеки seaborn
